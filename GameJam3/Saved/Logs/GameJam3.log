@@ -1210,3 +1210,349 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-14.08.45:488][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
 [2024.01.08-14.08.45:493][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
 [2024.01.08-14.08.45:513][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms
+[2024.01.08-14.09.12:784][668]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.08-14.09.12:803][668]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.08-14.09.12:809][669]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.08-14.09.25:511][ 81]LogContentBrowser: Attempting asset rename: NewFolder -> Eddies_Stuff
+[2024.01.08-14.09.25:512][ 81]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.08-14.09.32:004][737]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-14.09.43:545][739]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.01.08-14.09.43:585][739]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.01.08-14.09.43:588][739]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.01.08-14.09.43:608][741]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.01.08-14.09.49:660][420]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Orders
+[2024.01.08-14.09.49:669][420]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.01.08-14.09.59:249][193]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.08-14.10.02:498][506]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.01.08-14.10.02:501][506]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.01.08-14.10.02:509][507]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.01.08-14.10.08:842][218]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_Orders
+[2024.01.08-14.10.08:852][218]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.01.08-14.10.10:756][427]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Eddies_Stuff/S_Orders.S_Orders
+[2024.01.08-14.10.20:929][507]LogSlate: Took 0.004351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.08-14.10.27:021][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-14.10.27:094][168]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.004177 seconds
+[2024.01.08-14.10.27:096][168]LogSerialization: UsePackageTrailer: 'true'
+[2024.01.08-14.10.27:097][168]LogSavePackage: Moving output files for package: /Game/Eddies_Stuff/S_Orders
+[2024.01.08-14.10.27:097][168]LogSavePackage: Moving '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/S_OrdersCC46D952417C699C995FB4A465360DBA.tmp' to '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/Eddies_Stuff/S_Orders.uasset'
+[2024.01.08-14.10.27:102][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 203 ms)
+[2024.01.08-14.10.27:104][168]AssetCheck: New page: Asset Save: S_Orders
+[2024.01.08-14.10.27:104][168]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Eddies_Stuff/S_Orders.S_Orders
+[2024.01.08-14.10.28:934][362]LogSlate: Window 'S_Orders' being destroyed
+[2024.01.08-14.10.57:979][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.08-14.10.57:980][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2024.01.08-14.10.57:981][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Eddies_Stuff/W_Orders] ([2] browsable assets)...
+[2024.01.08-14.10.57:983][279]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Eddies_Stuff/W_Orders.W_Orders]
+[2024.01.08-14.10.57:983][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Eddies_Stuff/W_Orders]
+[2024.01.08-14.10.57:989][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Eddies_Stuff/W_Orders_Auto1
+[2024.01.08-14.10.57:989][279]LogSavePackage: Moving '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/W_Orders_Auto13BC1CB0B47C3268D9A5E468C857D1224.tmp' to '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/Autosaves/Game/Eddies_Stuff/W_Orders_Auto1.uasset'
+[2024.01.08-14.10.57:990][279]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.01.08-14.14.14:427][261]LogAssetTools: Warning: Two factories registered with same priority : ReimportCurveFactory_0 and ReimportCurveTableFactory_0
+[2024.01.08-14.14.14:427][261]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 C:\Users\u2264871\OneDrive - University of Huddersfield\order colours.csv)
+[2024.01.08-14.14.14:428][261]LogFactory: Error: Failed to load file 'C:\Users\u2264871\OneDrive - University of Huddersfield\order colours.csv' to string
+[2024.01.08-14.14.17:717][261]LogSlate: Window 'Message' being destroyed
+[2024.01.08-14.14.17:721][261]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\u2264871\OneDrive - University of Huddersfield\order colours.csv'. Failed to create asset '/Game/Eddies_Stuff/order_colours'.
+Please see Output Log for details.
+[2024.01.08-14.14.17:721][261]LogAssetTools: Warning: Failed to import 'C:\Users\u2264871\OneDrive - University of Huddersfield\order colours.csv'. Failed to create asset '/Game/Eddies_Stuff/order_colours'.
+Please see Output Log for details.
+[2024.01.08-14.14.17:725][262]LogAutomationController: Ignoring very large delta of 3.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.15.14:405][826]LogAssetTools: Warning: Two factories registered with same priority : ReimportCurveFactory_1 and ReimportCurveTableFactory_1
+[2024.01.08-14.15.14:413][826]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 C:\Users\u2264871\OneDrive - University of Huddersfield\order colours.csv)
+[2024.01.08-14.15.25:414][826]LogSlate: Window 'DataTable Options' being destroyed
+[2024.01.08-14.15.25:419][826]LogCSVImportFactory: Imported DataTable 'order_colours' - 6 Problems
+[2024.01.08-14.15.25:419][826]LogCSVImportFactory: 0:Row '1' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.25:419][826]LogCSVImportFactory: 1:Row '2' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.25:419][826]LogCSVImportFactory: 2:Row '3' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.25:419][826]LogCSVImportFactory: 3:Row '4' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.25:419][826]LogCSVImportFactory: 4:Row '5' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.25:419][826]LogCSVImportFactory: 5:Row '6' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.27:635][826]LogSlate: Window 'Message' being destroyed
+[2024.01.08-14.15.27:638][826]Message dialog closed, result: Ok, title: Message, text: Row '1' has more cells than properties, is there a malformed string?
+Row '2' has more cells than properties, is there a malformed string?
+Row '3' has more cells than properties, is there a malformed string?
+Row '4' has more cells than properties, is there a malformed string?
+Row '5' has more cells than properties, is there a malformed string?
+Row '6' has more cells than properties, is there a malformed string?
+
+[2024.01.08-14.15.27:649][827]LogAutomationController: Ignoring very large delta of 13.25 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.15.29:532][  7]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Eddies_Stuff/W_Orders.W_Orders
+[2024.01.08-14.15.29:532][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.15.29:533][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-14.15.29:547][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.15.29:547][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-14.15.29:554][  7]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.08-14.15.31:260][  7]LogSlate: Took 0.007750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.08-14.15.31:267][  7]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.08-14.15.31:276][  7]LogSlate: Took 0.008516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.08-14.15.35:685][495]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Eddies_Stuff/order_colours.order_colours
+[2024.01.08-14.15.44:632][554]LogCSVImportFactory: Imported DataTable 'order_colours' - 6 Problems
+[2024.01.08-14.15.44:633][554]LogCSVImportFactory: 0:Row '1' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.44:633][554]LogCSVImportFactory: 1:Row '2' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.44:633][554]LogCSVImportFactory: 2:Row '3' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.44:633][554]LogCSVImportFactory: 3:Row '4' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.44:633][554]LogCSVImportFactory: 4:Row '5' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.44:633][554]LogCSVImportFactory: 5:Row '6' has more cells than properties, is there a malformed string?
+[2024.01.08-14.15.49:962][554]LogSlate: Window 'Message' being destroyed
+[2024.01.08-14.15.49:965][554]Message dialog closed, result: Cancel, title: Message, text: Row '1' has more cells than properties, is there a malformed string?
+Row '2' has more cells than properties, is there a malformed string?
+Row '3' has more cells than properties, is there a malformed string?
+Row '4' has more cells than properties, is there a malformed string?
+Row '5' has more cells than properties, is there a malformed string?
+Row '6' has more cells than properties, is there a malformed string?
+
+[2024.01.08-14.15.50:020][555]LogAutomationController: Ignoring very large delta of 5.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.16.50:228][959]LogCSVImportFactory: Imported DataTable 'order_colours' - 6 Problems
+[2024.01.08-14.16.50:228][959]LogCSVImportFactory: 0:Row '1' has more cells than properties, is there a malformed string?
+[2024.01.08-14.16.50:228][959]LogCSVImportFactory: 1:Row '2' has more cells than properties, is there a malformed string?
+[2024.01.08-14.16.50:228][959]LogCSVImportFactory: 2:Row '3' has more cells than properties, is there a malformed string?
+[2024.01.08-14.16.50:228][959]LogCSVImportFactory: 3:Row '4' has more cells than properties, is there a malformed string?
+[2024.01.08-14.16.50:228][959]LogCSVImportFactory: 4:Row '5' has more cells than properties, is there a malformed string?
+[2024.01.08-14.16.50:228][959]LogCSVImportFactory: 5:Row '6' has more cells than properties, is there a malformed string?
+[2024.01.08-14.16.52:318][959]LogSlate: Window 'Message' being destroyed
+[2024.01.08-14.16.52:322][959]Message dialog closed, result: Ok, title: Message, text: Row '1' has more cells than properties, is there a malformed string?
+Row '2' has more cells than properties, is there a malformed string?
+Row '3' has more cells than properties, is there a malformed string?
+Row '4' has more cells than properties, is there a malformed string?
+Row '5' has more cells than properties, is there a malformed string?
+Row '6' has more cells than properties, is there a malformed string?
+
+[2024.01.08-14.16.52:376][960]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.18.15:813][213]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.08-14.18.15:814][213]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.08-14.18.36:347][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-14.18.36:409][666]LogSavePackage: Moving output files for package: /Game/Eddies_Stuff/order_colours
+[2024.01.08-14.18.36:409][666]LogSavePackage: Moving '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/order_colours744E09FB41076EB74FB4F78FE28B0E39.tmp' to '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/Eddies_Stuff/order_colours.uasset'
+[2024.01.08-14.18.36:415][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 272 ms)
+[2024.01.08-14.18.36:418][666]AssetCheck: New page: Asset Save: order_colours
+[2024.01.08-14.18.36:418][666]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Eddies_Stuff/order_colours.order_colours
+[2024.01.08-14.18.46:537][866]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.08-14.18.54:713][584]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.08-14.18.54:717][584]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.08-14.18.54:721][584]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.08-14.18.54:735][585]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.08-14.19.05:144][790]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CustomerOrder
+[2024.01.08-14.19.05:150][790]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.08-14.19.09:379][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Eddies_Stuff/BP_CustomerOrder.BP_CustomerOrder
+[2024.01.08-14.19.09:379][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.19.09:379][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-14.19.09:470][287]LogViewport: Scene viewport resized to 1141x902, mode Windowed.
+[2024.01.08-14.19.09:528][288]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: ================================================
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Total job queries 3,561, among them cache hits 21 (0.59%)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Tracking 3,537 distinct input hashes that result in 2,518 distinct outputs (71.19%)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: RAM used: 58.57 MiB of 1.60 GiB budget. Usage: 3.57%
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Shaders Compiled: 3,537
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Jobs assigned 3,540, completed 3,537 (99.92%)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Average time worker was idle: 149.19 s
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 25.66 s
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Job execution time: average 112.66 s, max 218.61 s
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Job life time (pending + execution): average 112.82 s, max 218.62
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 234.89 s
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Jobs were issued in 412 batches (94 local, 318 distributed), average 8.59 jobs/batch (2.19 jobs/local batch. 10.48 jobs/distributed batch)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Average processing rate: 15.06 jobs/sec
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Total thread time: 4,589.77 s
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Total thread preprocess time: 159.214 s
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Percentage time preprocessing: 3.47%
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Effective parallelization: 19.54 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 10.97 sec, max 15.19 sec, min 4.85 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 9.59 sec, max 18.18 sec, min 1.83 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 4.01 sec, max 6.39 sec, min 1.36 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 3.65 sec, max 5.94 sec, min 1.59 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 3.20 sec, max 3.20 sec, min 3.20 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.92% of total time (compiled  150 times, average 3.65 sec, max 5.94 sec, min 1.59 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.17% of total time (compiled   96 times, average 2.47 sec, max 4.04 sec, min 1.11 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.73% of total time (compiled  128 times, average 1.69 sec, max 3.25 sec, min 0.57 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.50% of total time (compiled   96 times, average 2.15 sec, max 4.09 sec, min 0.81 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.42% of total time (compiled  128 times, average 1.58 sec, max 2.79 sec, min 0.69 sec)
+[2024.01.08-14.19.17:612][229]LogShaderCompilers: Display: ================================================
+[2024.01.08-14.19.17:965][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.19.21:274][648]LogSlate: Took 0.004074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.08-14.20.02:387][367]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-14.20.02:387][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-14.20.07:479][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.08-14.20.08:618][948]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.08-14.20.08:667][948]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Eddies_Stuff/BP_CustomerOrder.BP_CustomerOrder
+	Asset Type: Blueprint
+[2024.01.08-14.20.08:843][948]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.PackageMetaData in its package
+[2024.01.08-14.20.08:844][948]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_10 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.PackageMetaData in its package
+[2024.01.08-14.20.08:844][948]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.PackageMetaData in its package
+[2024.01.08-14.20.08:845][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.08-14.20.08:875][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.08-14.20.08:889][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.08-14.20.08:903][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.08-14.20.08:932][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.08-14.22.36:481][327]LogViewport: Scene viewport resized to 1526x620, mode Windowed.
+[2024.01.08-14.22.36:498][328]LogViewport: Scene viewport resized to 1526x616, mode Windowed.
+[2024.01.08-14.22.36:547][329]LogViewport: Scene viewport resized to 1526x605, mode Windowed.
+[2024.01.08-14.22.36:579][330]LogViewport: Scene viewport resized to 1526x594, mode Windowed.
+[2024.01.08-14.22.36:622][331]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2024.01.08-14.22.38:958][590]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Eddies_Stuff/order_colours.order_colours
+[2024.01.08-14.25.51:003][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.08-14.25.51:005][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.01.08-14.25.51:005][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Eddies_Stuff/W_Orders] ([2] browsable assets)...
+[2024.01.08-14.25.51:009][428]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Eddies_Stuff/W_Orders.W_Orders]
+[2024.01.08-14.25.51:009][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Eddies_Stuff/W_Orders]
+[2024.01.08-14.25.51:014][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Eddies_Stuff/W_Orders_Auto2
+[2024.01.08-14.25.51:014][428]LogSavePackage: Moving '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/W_Orders_Auto2B94C32884397A0BBB298779ECDC41136.tmp' to '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/Autosaves/Game/Eddies_Stuff/W_Orders_Auto2.uasset'
+[2024.01.08-14.25.51:015][428]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.01.08-14.26.55:415][759]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UImage::SetColorAndOpacity' [Element not found.]
+[2024.01.08-14.27.02:571][771]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-14.27.02:580][772]LogAutomationController: Ignoring very large delta of 6.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.27.40:497][791]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-14.27.40:509][792]LogAutomationController: Ignoring very large delta of 20.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.27.57:486][811]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-14.27.57:496][812]LogAutomationController: Ignoring very large delta of 8.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.28.23:857][441]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-14.28.23:867][442]LogAutomationController: Ignoring very large delta of 4.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.29.00:331][215]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-14.29.00:345][216]LogAutomationController: Ignoring very large delta of 4.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.29.21:836][417]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-14.29.21:846][418]LogAutomationController: Ignoring very large delta of 2.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.08-14.29.23:630][622]BlueprintLog: New page: Compile W_Orders
+[2024.01.08-14.29.23:665][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.08-14.29.39:246][438]BlueprintLog: New page: Collapse to Function
+[2024.01.08-14.29.54:165][222]BlueprintLog: New page: Compile W_Orders
+[2024.01.08-14.29.54:191][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.08-14.29.57:979][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.29.57:993][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.29.58:019][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.29.58:566][710]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap
+[2024.01.08-14.29.58:567][710]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.29.58:567][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-14.29.59:118][767]LogShaderCompilers: Display: ================================================
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Total job queries 3,590, among them cache hits 22 (0.61%)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Tracking 3,565 distinct input hashes that result in 2,528 distinct outputs (70.91%)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: RAM used: 59.13 MiB of 1.60 GiB budget. Usage: 3.61%
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Shaders Compiled: 3,565
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Jobs assigned 3,568, completed 3,565 (99.92%)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Average time worker was idle: 182.61 s
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 25.66 s
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Job execution time: average 111.78 s, max 218.61 s
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Job life time (pending + execution): average 111.95 s, max 218.62
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 238.35 s
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Jobs were issued in 440 batches (122 local, 318 distributed), average 8.11 jobs/batch (1.92 jobs/local batch. 10.48 jobs/distributed batch)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Average processing rate: 14.96 jobs/sec
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Total thread time: 4,602.957 s
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Total thread preprocess time: 161.135 s
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Percentage time preprocessing: 3.50%
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Effective parallelization: 19.31 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 10.97 sec, max 15.19 sec, min 4.85 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 9.59 sec, max 18.18 sec, min 1.83 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 4.01 sec, max 6.39 sec, min 1.36 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 3.65 sec, max 5.94 sec, min 1.59 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 3.20 sec, max 3.20 sec, min 3.20 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.89% of total time (compiled  150 times, average 3.65 sec, max 5.94 sec, min 1.59 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.16% of total time (compiled   96 times, average 2.47 sec, max 4.04 sec, min 1.11 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.71% of total time (compiled  128 times, average 1.69 sec, max 3.25 sec, min 0.57 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.49% of total time (compiled   96 times, average 2.15 sec, max 4.09 sec, min 0.81 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.41% of total time (compiled  128 times, average 1.58 sec, max 2.79 sec, min 0.69 sec)
+[2024.01.08-14.29.59:119][767]LogShaderCompilers: Display: ================================================
+[2024.01.08-14.30.04:702][434]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-14.30.04:702][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-14.30.12:202][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.08-14.30.12:203][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.30.12:203][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-14.30.39:113][367]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.08-14.30.39:169][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.08-14.30.40:757][525]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-14.30.40:762][525]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.08-14.30.40:764][525]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.08-14.30.40:764][525]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.08-14.30.40:764][525]LogWorldPartition: Display: GetPartitionedActors took 200 us
+[2024.01.08-14.30.40:764][525]LogWorldPartition: Display: GenerateStreaming took 384 us
+[2024.01.08-14.30.40:766][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-14.30.40:771][525]PIE: New page: PIE session: FirstPersonMap (8 Jan 2024, 14:30:40)
+[2024.01.08-14.30.40:774][525]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.01.08-14.30.40:774][525]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.01.08-14.30.40:774][525]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.08-14.30.40:778][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003554s)
+[2024.01.08-14.30.40:778][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003588s)
+[2024.01.08-14.30.40:778][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-14.30.40:778][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-14.30.40:778][525]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.08-14.30.40:779][525]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.08-14.30.40:779][525]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.08-14.30.40:779][525]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.08-14.30.40:780][525]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.08-14.30.40:780][525]LogWorldPartition: Display: WorldPartition initialize took 897 us (total: 532 ms)
+[2024.01.08-14.30.40:780][525]LogPlayLevel: PIE: World Init took: (0.002145s)
+[2024.01.08-14.30.40:795][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.08-14.30.40:797][525]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.08-14.30.40:797][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-14.30.40:797][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-14.30.40:797][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-14.30.40:797][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-14.30.40:797][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.08-14.30.40:797][525]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.08-14.30.40:797][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.08-14.30.40:797][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-14.30.40:797][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-14.30.40:797][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-14.30.40:797][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-14.30.40:798][525]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-14.30.40:813][525]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.08-14.30.40:814][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-14.30.40:814][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-14.30.40:814][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-14.30.40:815][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.08-14.30.40:815][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.08-14.30.40:816][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.08-14.30.40:816][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.08-14.30.40:816][525]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.08-14.30.40:816][525]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.01.08-14.30.40:816][525]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.08-14.30.40:820][525]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.08-14.30.40:821][525]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.08-14.30.40
+[2024.01.08-14.30.40:822][525]LogWorld: Bringing up level for play took: 0.001740
+[2024.01.08-14.30.40:823][525]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.01.08-14.30.40:844][525]PIE: Server logged in
+[2024.01.08-14.30.40:845][525]PIE: Play in editor total start time 0.083 seconds.
+[2024.01.08-14.30.40:874][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:875][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:875][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:875][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:875][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:876][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:876][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:896][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:896][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:897][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:897][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:897][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:897][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.30.40:897][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.31.08:806][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-14.31.08:806][851]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.08-14.31.08:807][851]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-14.31.08:807][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-14.31.08:807][851]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.08-14.31.08:811][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-14.31.08:815][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-14.31.08:834][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-14.31.08:835][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.08-14.31.08:835][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.08-14.31.08:836][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.08-14.31.08:839][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-14.31.08:841][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.08-14.31.08:860][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.31.08:876][852]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.01.08-14.31.08:885][852]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-14.31.15:552][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.08-14.31.15:555][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-14.31.15:627][616]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.08-14.31.15:628][616]LogSavePackage: Moving '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/BP_FirstPersonCharacterB62271984B41D29368BD8D85F2EC4CBD.tmp' to '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.08-14.31.15:637][616]LogSavePackage: Moving output files for package: /Game/Eddies_Stuff/W_Orders
+[2024.01.08-14.31.15:637][616]LogSavePackage: Moving '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Saved/W_OrdersB3F7FAE24AD93A98F7B65CAE47F4452A.tmp' to '../../../../../../Users/u2264871/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/Eddies_Stuff/W_Orders.uasset'
+[2024.01.08-14.31.15:652][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 369 ms)
+[2024.01.08-14.31.15:655][616]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.08-14.31.15:655][616]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Eddies_Stuff/W_Orders.W_Orders
+[2024.01.08-14.31.15:655][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
