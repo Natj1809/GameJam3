@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPerson/Blueprints/BP_ball.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/0W/Q7XK8UT47KXC0SL97S1XLR.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GA/292M259CNIES2UQ9USJTHM.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/4L/CJ0VMQG43ZJQ1YXFICMF10.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MN/64OJ5TIZ70EDRIUMDLSIZT.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPerson/Blueprints/BP_ChamferCube.uasset",
+				"C:/Users/u2289862/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/FirstPerson/Blueprints/SK_ball.uasset",
 				"C:/Users/U2258201/OneDrive - University of Huddersfield/Documents/GitHub/GameJam3/GameJam3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset"
 			]
 		}
