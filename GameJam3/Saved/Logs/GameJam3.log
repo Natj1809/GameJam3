@@ -8212,3 +8212,96 @@ Script Stack (1 frames) :
 [2024.01.09-11.43.31:153][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 14.7 sec)
 [2024.01.09-11.43.31:157][796]AssetCheck: New page: Asset Save: MimiTestScene
 [2024.01.09-11.43.31:157][796]LogContentValidation: Display: Validating /Script/Engine.World /Game/MimiBuckler/MimiTestScene.MimiTestScene
+[2024.01.09-11.45.26:149][ 61]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.09-11.45.26:153][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-11.45.26:153][ 61]PIE: New page: PIE session: MimiTestScene (9 Jan 2024, 11:45:26)
+[2024.01.09-11.45.26:186][ 61]LogPlayLevel: Creating play world package: /Game/MimiBuckler/UEDPIE_0_MimiTestScene
+[2024.01.09-11.45.26:188][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001829s)
+[2024.01.09-11.45.26:188][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MimiBuckler/MimiTestScene.MimiTestScene to /Game/MimiBuckler/UEDPIE_0_MimiTestScene.MimiTestScene (0.001870s)
+[2024.01.09-11.45.26:188][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-11.45.26:188][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-11.45.26:189][ 61]LogAIModule: Creating AISystem for world MimiTestScene
+[2024.01.09-11.45.26:189][ 61]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2024.01.09-11.45.26:204][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.09-11.45.26:206][ 61]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.01.09-11.45.26:206][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-11.45.26:206][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-11.45.26:206][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-11.45.26:206][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-11.45.26:206][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-11.45.26:206][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.09-11.45.26:206][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-11.45.26:206][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-11.45.26:206][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-11.45.26:206][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-11.45.26:206][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-11.45.26:207][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.09-11.45.26:219][ 61]LogAudioMixer: Display: Using Audio Hardware Device PL2783Q (2- High Definition Audio Device)
+[2024.01.09-11.45.26:220][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-11.45.26:220][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-11.45.26:220][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-11.45.26:220][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.01.09-11.45.26:220][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.01.09-11.45.26:221][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.01.09-11.45.26:221][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.01.09-11.45.26:221][ 61]LogInit: FAudioDevice initialized with ID 26.
+[2024.01.09-11.45.26:221][ 61]LogAudio: Display: Audio Device (ID: 26) registered with world 'MimiTestScene'.
+[2024.01.09-11.45.26:221][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.09-11.45.26:224][ 61]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.09-11.45.26:224][ 61]LogWorld: Bringing World /Game/MimiBuckler/UEDPIE_0_MimiTestScene.MimiTestScene up for play (max tick rate 0) at 2024.01.09-11.45.26
+[2024.01.09-11.45.26:224][ 61]LogWorld: Bringing up level for play took: 0.000739
+[2024.01.09-11.45.26:226][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.01.09-11.45.26:228][ 61]PIE: Server logged in
+[2024.01.09-11.45.26:228][ 61]PIE: Play in editor total start time 0.075 seconds.
+[2024.01.09-11.45.26:300][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:300][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:301][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:301][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:301][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:301][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:302][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:302][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:302][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:302][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:302][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:303][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:303][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:303][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:303][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:303][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:304][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:304][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:304][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:304][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:304][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:304][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.26:305][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.45.37:384][379]LogBlueprintUserMessages: [BP_SweetMachine_C_1] Start
+[2024.01.09-11.45.37:384][379]LogBlueprintUserMessages: [BP_SweetMachine_C_1] found Suicidal Tendencies as effect
+[2024.01.09-11.45.38:363][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.14:966][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-11.46.14:966][879]LogWorld: BeginTearingDown for /Game/MimiBuckler/UEDPIE_0_MimiTestScene
+[2024.01.09-11.46.14:966][879]LogWorld: UWorld::CleanupWorld for MimiTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-11.46.14:966][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-11.46.14:970][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-11.46.14:972][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-11.46.14:989][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-11.46.14:989][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.09-11.46.14:989][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.09-11.46.14:991][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.09-11.46.14:993][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-11.46.14:995][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.09-11.46.15:013][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:013][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:014][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:014][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:014][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:015][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:015][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:015][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:015][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:015][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:015][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:016][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:016][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.09-11.46.15:055][882]LogPlayLevel: Display: Destroying online subsystem :Context_44
